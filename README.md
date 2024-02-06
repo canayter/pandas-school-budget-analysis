@@ -60,6 +60,7 @@ Use the per_school_summary DataFrame from the previous step to create a new Data
 This new DataFrame should show school performance based on the "School Type".
 
 **Conclusions**
+
 - It appears charter schools show greater performance compared to district schools in a variety of ways.
 - Higher spending (per student) doesn't result in higher test scores.
 - Large schools don't seem to have better grades compared to smaller schools.
